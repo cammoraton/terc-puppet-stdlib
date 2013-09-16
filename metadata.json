@@ -15,7 +15,7 @@
     "Modulefile": "2928511abd6251fa52083b42cab2631e",
     "README.markdown": "29296b2a460fd33de3f9dfda6fb0b30e",
     "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
-    "lib/puppet/parser/functions/collect_resource_params.rb": "c3cb7435b1b5ee472bdab272498baae2",
+    "lib/puppet/parser/functions/collect_resource_params.rb": "35547d582c889a8338777131a36fa122",
     "manifests/init.pp": "5d43d13e813ad6104f52fbe8bab0aaf1",
     "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
     "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
