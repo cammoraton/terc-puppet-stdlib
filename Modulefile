@@ -1,11 +1,11 @@
-name    'ncammorato-stdlib'
+name    'terc-stdlib'
 version '0.1.0'
 source ''
-author ''
-license ''
+author 'Nick Cammorato'
+license 'MIT or ASL'
 summary ''
 description ''
 project_page ''
 
-## Add dependencies, if any:
-# dependency 'username/name', '>= 1.2.0'
+## Add dependencies, if any:s
+dependency 'puppetlabs/stdlib', '>= 4.1.0'
