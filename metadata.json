@@ -16,7 +16,7 @@
     "README.markdown": "29296b2a460fd33de3f9dfda6fb0b30e",
     "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
     "lib/puppet/parser/functions/collect_resources_with_params.rb": "28a2a6f90a233ecf20297a3f17a00230",
-    "lib/puppet/parser/functions/current_time.rb": "1fd7d2d345dd1776cc1609670990fe26",
+    "lib/puppet/parser/functions/curtime.rb": "d0f587301a0902366b34a6e39332da53",
     "manifests/init.pp": "5d43d13e813ad6104f52fbe8bab0aaf1",
     "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
     "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
