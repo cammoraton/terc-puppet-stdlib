@@ -1,0 +1,21 @@
+{
+  "name": "ncammorato-stdlib",
+  "version": "0.1.0",
+  "summary": "",
+  "author": "",
+  "description": "",
+  "dependencies": [],
+  "types": [],
+  "checksums": {
+    "Modulefile": "d005d748db31534f7a10e318478626f8",
+    "README.markdown": "43d12ab08abb4a5c846381d329f4c946",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "manifests/init.pp": "5d43d13e813ad6104f52fbe8bab0aaf1",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "tests/init.pp": "1d98070412c76824e66db4b7eb74d433"
+  },
+  "source": "",
+  "project_page": "",
+  "license": ""
+}
