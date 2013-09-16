@@ -1,0 +1,26 @@
+{
+  "name": "terc-stdlib",
+  "version": "0.1.0",
+  "summary": "TERC Puppet Standard Module Library",
+  "author": "cammoraton",
+  "description": "Standard library for TERC puppet modules",
+  "dependencies": [
+    {
+      "name": "puppetlabs/stdlib",
+      "version_requirement": "\u003e\u003d 4.1.0"
+    }
+  ],
+  "types": [],
+  "checksums": {
+    "Modulefile": "2928511abd6251fa52083b42cab2631e",
+    "README.markdown": "29296b2a460fd33de3f9dfda6fb0b30e",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "manifests/init.pp": "5d43d13e813ad6104f52fbe8bab0aaf1",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "tests/init.pp": "1d98070412c76824e66db4b7eb74d433"
+  },
+  "source": "git://github.com/cammoraton/terc-puppet-stdlib",
+  "project_page": "https://github.com/cammoraton/terc-puppet-stdli",
+  "license": "MIT or Apache 2.0"
+}
