@@ -8,7 +8,8 @@ require 'socket'
 Puppet::Parser::Functions.newfunction(:curtime,
                                       :type => :rvalue,
                                       :doc => <<-'EOS'
-
+  Query the specified ntp server(or pool) for a time, or if no server is specified then call out to
+  ruby's time function.
 EOS
 ) do |args|
   ntp_server = args
